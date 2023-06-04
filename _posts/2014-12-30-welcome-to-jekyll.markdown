@@ -10,15 +10,6 @@ permalink: /archivers/hello
 
 <!--more-->
 
-GitHub Flavored Markdown is supported.
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
 
 And $$\mathcal{ Mathematics }$$ is supported!
 
