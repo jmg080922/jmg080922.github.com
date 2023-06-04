@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll and EasyBook"
-date:   2014-12-30 09:00:13
+title:  "블로그 테스트"
+date:   2023-6-4 6:54:30
 categories: jekyll update
 permalink: /archivers/hello
 ---
@@ -11,11 +11,7 @@ permalink: /archivers/hello
 <!--more-->
 
 
-And $$\mathcal{ Mathematics }$$ is supported!
 
-Use `$$` to wrap your formulas. For example, `$$ e^{i\pi} + 1 = 0 $$` displays $$  e^{i\pi} + 1 = 0  $$
-
-Multi-line forumlas are supported too.
 
 $$
 \begin{aligned}
